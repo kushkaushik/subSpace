@@ -5,11 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "dev": "nodemon -L index.js"
-=======
-    "start": "node index.js"
->>>>>>> ea7197f9b8e60a7d2fa76f235dac66f9aa1a691c
   },
   "author": "",
   "license": "ISC",
